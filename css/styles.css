@@ -12,6 +12,9 @@ div1{
   margin: 20px;
   background-color: black;
 }
+h1{
+  color:white;
+}
 
 h1,h2{
   text-align: center;
