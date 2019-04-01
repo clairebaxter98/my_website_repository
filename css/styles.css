@@ -1,0 +1,52 @@
+body{
+  color: rgba(153, 0, 76);
+  font-family: sans-serif;
+  margin: 20px;
+  background-color: black;
+}
+div1{
+  color: white;
+  text-align: center;
+  font-family: Gill Sans Extrabold, sans-serif;
+  font-size: 2.5;
+  margin: 20px;
+  background-color: black;
+}
+
+h1,h2{
+  text-align: center;
+}
+h1{
+  font-size: 5em;
+}
+h3{
+  font-size: 1.5em;
+}
+h2{
+  font-size: 2.5em;
+}
+ol{
+  font-weight: lighter;
+  font-size: 17px;
+}
+ul{
+  font-weight: lighter;
+  font-size: 17px;
+}
+th{
+  font-size: 1.5;
+  text-align: center;
+  text-decoration: underline;
+}
+td{
+  text-align: center;
+}
+p1{
+  color: :rgba(153, 0, 76);
+  font-family: sans-serif;
+}
+p2{
+  color: white;
+  font-family: sans-serif;
+  font-size: 15px;
+}
